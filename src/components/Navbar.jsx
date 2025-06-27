@@ -27,7 +27,7 @@ const Navbar = () => {
                 <img src="/images/logo.png" alt="logo" className='w-10 h-10 object-cover' />
                 <p>Velvet Pour</p>
             </a>
-            <ul>
+            <ul >
                 {navLinks.map((link) => (
                     <li key={link.id}>
                         <a href={`#${link.id}`}>{link.title}</a>
