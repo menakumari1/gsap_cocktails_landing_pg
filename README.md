@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="public/images/Cocktail Website.png" alt="Project Banner">   
+      <img src="public/images/GSAP Cocktail Website.png">   
   <br />
 
    <div>
