@@ -38,14 +38,15 @@ const Contact = () => {
 		<h2>Where to Find Us</h2>
 		
 		<div>
-		 <h3>Visit Our Bar</h3>
-		 <p>456, Raq Blvd. #404, Los Angeles, CA 90210</p>
+			<h3>Visit Our Bar</h3>
+			<p>93 Orchard Lane, Soho District,
+				<br/> Mumbai, MH 400001</p>
 		</div>
-		
+
 		<div>
-		 <h3>Contact Us</h3>
-		 <p>(555) 987-6543</p>
-		 <p>hello@jsmcocktail.com</p>
+			<h3>Contact Us</h3>
+			<p>+91 98185 23456</p>
+			<p>hello@velvetpourbar.com</p>
 		</div>
 		
 		<div>
