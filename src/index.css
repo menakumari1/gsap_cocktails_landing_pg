@@ -245,14 +245,14 @@ body {
     }
 
     #art {
-        @apply flex-center flex-col min-h-dvh p-5 mt-20 relative radial-gradient;
+        @apply flex-center flex-col min-h-dvh  relative radial-gradient;
 
         h2 {
             @apply relative md:text-[20vw] text-8xl text-nowrap leading-none font-modern-negra text-center text-[#505050] mb-8;
         }
 
         .content {
-            @apply flex md:flex-row flex-col justify-between md:mb-16 md:mt-0 mt-40 gap-10;
+            @apply flex md:flex-row flex-col justify-between md:mb-16 md:mt-0 mt-40 gap-10 mx-10;
         }
 
         .cocktail-img {
@@ -279,14 +279,14 @@ body {
     }
 
     #menu {
-        @apply relative w-full md:mt-40 mt-0 2xl:px-0 px-5 py-20 radial-gradient;
+        @apply relative w-full md:mt-0 mt-0 2xl:px-0 px-10 radial-gradient;
 
         #m-left-leaf {
             @apply object-contain absolute -bottom-20 left-0 md:w-fit w-1/3;
         }
 
         #m-right-leaf {
-            @apply object-contain absolute -top-40 right-0 md:w-fit w-1/4;
+            @apply object-contain absolute -top-10 right-0 md:w-fit w-1/4;
         }
 
         .cocktail-tabs {
@@ -317,7 +317,7 @@ body {
             @apply flex-center mt-10;
 
             img {
-                @apply object-contain h-[60vh];
+                @apply object-contain h-[60vh] ;
             }
         }
 
@@ -358,7 +358,7 @@ body {
         }
 
         .content {
-            @apply container mx-auto lg:py-14 2xl:py-32 py-16 flex flex-col justify-between gap-10 min-h-dvh;
+            @apply container mx-auto lg:py-14 2xl:py-32 py-16 flex flex-col justify-between gap-10 min-h-dvh scale-90;
 
             h2 {
                 @apply lg:text-6xl 2xl:text-8xl text-5xl font-modern-negra md:translate-y-0 translate-y-5;
