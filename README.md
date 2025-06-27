@@ -19,7 +19,6 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Screenshort](#screenshort)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -95,6 +94,5 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-## <a name="screenshort">🔗 Screenshort</a>
 
 
